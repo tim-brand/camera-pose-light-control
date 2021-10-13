@@ -1,4 +1,4 @@
-# Camera Post Light Control
+# Camera Pose Light Control
 
 This projects is a demo of how you can control lights by waving with your hand before a
 camera.
